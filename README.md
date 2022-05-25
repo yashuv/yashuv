@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashuv
-- 👀 I’m interested in Machine Learning, Data Science, Web Development, DSA and I enjoy Listening to Music, Reading, and so on.
+- 👀 I’m interested in Machine Learning, Data Science, Web Development, DSA and I enjoy music, reading, and so on.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Computer Science Projects.
 - 📫 How to reach me email: yashuv.baskota1@gmail.com
