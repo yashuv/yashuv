@@ -5,7 +5,7 @@
 - 📫 How to reach me email: yashuv.baskota1@gmail.com
 - 🗣️ I can speak on C, C++, Javascript, Python, and SQL.
 - 💪 I motivate by saying  “ Just don’t give up on trying to do what you really want to do.
-   &nbsp;                         Where there is love and inspiration, I don’t think you can go wrong. "
+                            Where &nbsp;&nbsp;there is love and inspiration, I don’t think you can go wrong. "
 
 <!---
 yashuv/yashuv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
