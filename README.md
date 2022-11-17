@@ -12,9 +12,12 @@
 - 📫 How to reach me **yashuv.baskota1@gmail.com**
 
 - 💪 My inspirational quote "Motivation is temporary, but self-discipline is the key."
+
+- Do you know there are 10 types of people in this world? Those who understand binary and those who don't. Ok, let's laugh next time!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashuvbaskota)
 </p>
 
