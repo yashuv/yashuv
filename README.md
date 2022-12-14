@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **machine learning project.**
 
-- 🌱 I’m currently learning **machine learning and DSA things.**
+- 🌱 I’m currently learning **data and machine learning things.**
 
 - 👯 I’m looking to collaborate on **computer science projects..**
 
@@ -13,7 +13,7 @@
 
 - 💪 My inspirational quote "Motivation is temporary, but self-discipline is the key."
 
-- Do you know there are 10 types of people in this world? Those who understand binary and those who don't. Ok, let's laugh next time!
+- Do you know there are 10 types of people in this world? Those who understand binary and those who don't. :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
