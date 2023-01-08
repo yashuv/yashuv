@@ -33,7 +33,7 @@
 
 <!-- - 💬 Ask me about **C, C++, Python.** -->
 
-- 💪 My personal motto __"Motivation is a spark, but self-discipline is the fire that fuels our goals."__
+- 💪 My personal motto __"Motivation is a spark, but self-discipline is the fire that fuels the goals."__
 
 - Do you know? *There are 10 types of people in this world? Those who understand binary and those who don't.* :)
 
