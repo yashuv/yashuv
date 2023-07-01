@@ -1,7 +1,7 @@
 
 <h2><div align="center">Hey 👋, I'm Yashuv!💻</div> </h2>
 <p>
-  I am a passionate machine learning and deep learning practitioner and learner, always seeking new opportunities to learn and apply these technologies to solve real-world problems. I am constantly exploring new machine learning libraries and frameworks, and have experience working with a variety of tools such as TensorFlow and scikit-learn.
+  I am a passionate machine learning, deep learning, and NLP practitioner and learner, always seeking new opportunities to learn and apply these technologies to solve real-world problems. I have a deep understanding of machine learning concepts and algorithms, and I am experienced in a variety of machine learning tools and frameworks, including TensorFlow, scikit-learn, and PyTorch.
  </p>
  
  
