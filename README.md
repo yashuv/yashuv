@@ -1,7 +1,7 @@
 
 <h2><div align="center">Hey 👋, I'm Yashuv!💻</div> </h2>
 <p>
-  I am a passionate machine learning, deep learning, and NLP practitioner and learner, always seeking new opportunities to learn and apply these technologies to solve real-world problems. I have a deep understanding of machine learning concepts and algorithms, and I am experienced in a variety of machine learning tools and frameworks, including TensorFlow, scikit-learn, and PyTorch.
+  I am a passionate data science, machine learning, deep learning, and NLP practitioner and learner, always seeking new opportunities to learn and apply these technologies to solve real-world problems. I have a deep understanding of machine learning concepts and algorithms, and I am experienced in a variety of machine learning tools and frameworks, including TensorFlow, scikit-learn, and PyTorch.
  </p>
  
  
@@ -25,7 +25,7 @@
 
 #### Updates:
 
-- 🔭 I’m currently working on program <a href="https://fuse.ai/ai-fellowship/">**Fusemachines AI Fellowship 2023**</a>
+- 🔭 I’m currently working on AI projects to hone my skills.
 
 - 🌱 I’m currently learning **NLP.**
 
@@ -82,3 +82,6 @@
 
 ### :writing_hand: Articles Posts :
 * <a href="https://medium.com/@yashuv">See here</a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashuv&label=Profile%20views&color=0e75b6&style=flat" alt="yashuvbaskota" /> </p>
