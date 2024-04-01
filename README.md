@@ -83,5 +83,6 @@
 ### :writing_hand: Articles Posts :
 * <a href="https://medium.com/@yashuv">See here</a>
 
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashuv&label=Profile%20views&color=0e75b6&style=flat" alt="yashuvbaskota" /> </p>
