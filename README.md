@@ -1,12 +1,13 @@
 
 <h2><div align="center">Hey 👋, I'm Yashuv!💻</div> </h2>
 <p>
-  I am a passionate data science, machine learning, deep learning, and NLP practitioner and learner, always seeking new opportunities to learn and apply these technologies to solve real-world problems. I have a deep understanding of machine learning concepts and algorithms, and I am experienced in a variety of machine learning tools and frameworks, including TensorFlow, scikit-learn, and PyTorch.
+  I'm a passionate Python developer enthusiastic about data science, machine learning, deep learning, and NLP, constantly seeking opportunities to learn and solve real-world problems. I possess a deep understanding of machine learning concepts and algorithms, experience with web frameworks like Django, Flask, and FastAPI, and expertise in deep learning frameworks like TensorFlow and PyTorch, fueled by a lifelong learner's spirit that thrives in collaboration.
  </p>
  
+ <br>
  
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="220"/>
 </div>
 
 <div id="badges" align="center">
@@ -25,11 +26,11 @@
 
 #### Updates:
 
-- 🔭 I’m currently working on AI projects to hone my skills.
+- 🔭 I’m currently working on Python and AI task.
 
 - 🌱 I’m currently learning **NLP.**
 
-- 👯 I’m looking to collaborate on **Data Science and Machine Learning.**
+- 👯 I’m looking to collaborate on **Data Science and Machine Learning** or any software development project.
 
 <!-- - 💬 Ask me about **C, C++, Python.** -->
 
@@ -52,12 +53,16 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="43" height="42"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" width="40" height="42"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" width="40" height="42"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow " width="40"height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit_learn" alt="Scikit_learn" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; -->
